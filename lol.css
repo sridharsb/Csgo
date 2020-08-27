@@ -1,3 +1,9 @@
+
+.right{
+  position: absolute;
+  right: 0px;
+  padding: 10px;
+}
 ul
 {	
 position: -webkit-sticky; /* Safari */
